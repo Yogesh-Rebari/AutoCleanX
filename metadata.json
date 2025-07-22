@@ -1,0 +1,5 @@
+{
+  "name": "AutoCleanX",
+  "description": "An intelligent data cleaning and analysis tool. Upload a CSV, and AutoCleanX will automatically clean it, perform feature engineering, generate an analytical report, and suggest a suitable machine learning model. The entire process runs securely in your browser.",
+  "requestFramePermissions": []
+}
